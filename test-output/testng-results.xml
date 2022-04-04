@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-03T22:59:42 IST" name="Suite" finished-at="2022-04-03T23:00:06 IST" duration-ms="23574">
+    <groups>
+    </groups>
+    <test started-at="2022-04-03T22:59:42 IST" name="Test" finished-at="2022-04-03T23:00:06 IST" duration-ms="23574">
+      <class name="Practice.AppiumTestAutoamtion.LoginPageStep">
+        <test-method signature="logIn()[pri:1, instance:Practice.AppiumTestAutoamtion.LoginPageStep@6892cc6f]" started-at="2022-04-03T22:59:42 IST" name="logIn" finished-at="2022-04-03T22:59:50 IST" duration-ms="7240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="createWorkOrder()[pri:2, instance:Practice.AppiumTestAutoamtion.LoginPageStep@6892cc6f]" started-at="2022-04-03T22:59:50 IST" name="createWorkOrder" finished-at="2022-04-03T23:00:00 IST" duration-ms="10064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWorkOrder -->
+        <test-method signature="appLogOut()[pri:3, instance:Practice.AppiumTestAutoamtion.LoginPageStep@6892cc6f]" started-at="2022-04-03T23:00:00 IST" name="appLogOut" finished-at="2022-04-03T23:00:06 IST" duration-ms="6197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogOut -->
+      </class> <!-- Practice.AppiumTestAutoamtion.LoginPageStep -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
